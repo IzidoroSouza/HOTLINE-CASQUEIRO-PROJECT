@@ -1,5 +1,7 @@
+//fazendo o personagem mirar na direção do cursor
 image_angle = point_direction(x, y, mouse_x, mouse_y)
 
+//configuração das teclas W, A, S, D para a movimentação up, left, down, right do personagem
 if (keyboard_check(ord("W"))) {
     y -=movspd
 }
