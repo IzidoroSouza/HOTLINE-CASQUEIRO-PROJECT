@@ -1,2 +1,5 @@
+//aplicação do valor "8" para a variável "movspd" referente ao movement speed do persongem
 movspd=8
+
+//desabilitar a visibilidade do cursor do windows enquanto estiver no projeto
 window_set_cursor(cr_none)
